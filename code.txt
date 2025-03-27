@@ -1,3 +1,6 @@
 Git is created by Linus Torvalds
 Git is free and open source
-Git is the most popular Version Control System 
+Git is the most popular Version Control System
+Github is used for repository management 
+Bitbucket is used for Issue Tracking and code searching 
+GitLab has free private repositories 
