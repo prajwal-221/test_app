@@ -1,0 +1,3 @@
+Git is a distributed version control sytstem that helps developers track changes to files , collaborate on projects , and manage code easily . 
+It basically allows mutliple people to work on the same project simultaneously without overwrtting each other's work. 
+I think git is very helpful and useful tool.
